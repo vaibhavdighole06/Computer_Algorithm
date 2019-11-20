@@ -1,0 +1,9 @@
+Complexities of different algorithms:
+1. Selection sort : O(n^2)
+2. Bubble sort : O(n)
+3. Insertion Sort : O(n)	
+4. Heap Sort :	O(n log(n))	
+5. Quick Sort	: O(n log(n))	
+6. Merge Sort	: O(n log(n))	
+7. Bucket Sort :	O(n+k)	
+8. Radix Sort	: O(nk)
